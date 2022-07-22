@@ -1,4 +1,4 @@
-# iptables-logs-valve
+# iptables-logs-valve [![.github/workflows/check.yml](https://github.com/moznion/iptables-logs-valve/actions/workflows/check.yml/badge.svg)](https://github.com/moznion/iptables-logs-valve/actions/workflows/check.yml)
 
 A CLI tool to convert the iptables logs that come from STDIN into JSON/JSONL.
 
