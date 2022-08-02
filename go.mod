@@ -1,6 +1,6 @@
 module github.com/moznion/iptables-logs-valve
 
-go 1.18
+go 1.19
 
 require github.com/moznion/go-iptables-logs-parser v0.0.3
 
